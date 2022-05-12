@@ -38,7 +38,7 @@ const Projects = () => (
             <ExternalLinks href={source}>Source</ExternalLinks>
           </UtilityList>
         </BlogCard>
-      ))};
+      ))}
     </GridContainer>
   </Section>
 );
