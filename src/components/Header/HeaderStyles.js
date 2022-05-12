@@ -20,7 +20,6 @@ export const Container = styled.div`
 
 export const Span = styled.span`
 font-size: 2rem;
-d
 `;
 
 export const Div1 = styled.div`
@@ -37,6 +36,9 @@ export const Div2 = styled.div`
   display: flex;
   justify-content: space-around;
   @media ${(props) => props.theme.breakpoints.sm} {
+    grid-area: 2 / 2 / 3 / 5;
+  }
+  @media ${(props) => props.theme.breakpoints.md} {
     grid-area: 2 / 2 / 3 / 5;
   }
 `;
@@ -62,9 +64,16 @@ export const NavLink = styled.a`
     opacity: 1;
     cursor: pointer;
   }
+  @media ${(props) => props.theme.breakpoints.md} {
+    padding: 1rem;
+  }
   @media ${(props) => props.theme.breakpoints.sm} {
     padding: 0.5rem;
   }
+  @media ${(props) => props.theme.breakpoints.lg} {
+    margin-left: 1rem;
+    padding: 0.5rem;
+  }  
 `;
 
 /// DropDown Contact
