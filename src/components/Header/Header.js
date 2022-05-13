@@ -16,7 +16,7 @@ const Header = () => (
             color: "white",
             marginBottom: "20px"
           }}>
-          <DiCssdeck size="3rem" /> <Span>Portfolio</Span>
+          <DiCssdeck size="3rem" /> <Span>Umair Sadiq</Span>
         </a>
       </Link>
     </Div1>
