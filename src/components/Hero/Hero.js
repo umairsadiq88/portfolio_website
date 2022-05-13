@@ -10,10 +10,10 @@ const Hero = (props) => (
 <Section row nopadding>
   <LeftSection>
     <SectionTitle main center>
-      Welcome to My Personal Portfolio
+      Welcome to My Portfolio
     </SectionTitle>
     <SectionText>
-    My development Services 
+    My development Services with using ReactJS, NodeJS &amp; many more 
     </SectionText>
     <Button onClick={props.handleClick}>Learn More</Button>
   </LeftSection>
