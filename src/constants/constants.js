@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: 'MERN Memories',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+    title: 'Expense Tracker',
+    description: "Using ReactJs, BootCamp2020 Project_1.",
       image: '/images/1.png',
-      tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+      tags: ['React'],
+    source: 'https://project1-expense-tracker-2021.vercel.app/',
+    visit: 'https://github.com/umairsadiq88/Project1_Expense-Tracker-2021',
     id: 0,
   },
   {
@@ -18,12 +18,12 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'WebRTC App',
-    description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
+    title: 'RedQueen',
+    description: "This is a another Bootcamp 2020 project.",
       image: '/images/3.jpg',
-      tags: ['React', 'WebRTC'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+      tags: ['React, animation'],
+    source: 'https://redqueenproject.vercel.app/',
+    visit: 'https://github.com/umairsadiq88/redqueenproject',
     id: 2,
   },
   {
