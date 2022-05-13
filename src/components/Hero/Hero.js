@@ -10,7 +10,7 @@ const Hero = (props) => (
 <Section row nopadding>
   <LeftSection>
     <SectionTitle main center>
-  Welcome to My Umair Sadiq World of Development!!
+  Welcome to  Umair Sadiq's World of Development!!
     </SectionTitle>
     <SectionText>
     My development Services with using ReactJS, NodeJS &amp; many more 
