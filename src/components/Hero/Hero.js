@@ -13,7 +13,7 @@ const Hero = (props) => (
   Welcome to  Umair Sadiq's World of Development!!
     </SectionTitle>
     <SectionText>
-    My development Services with using ReactJS, NodeJS &amp; many more 
+    My development Services with using ReactJS, NextJS, Gatsby, NodeJS &amp; many more 
     </SectionText>
     <Button onClick={props.handleClick}>Learn More</Button>
   </LeftSection>
