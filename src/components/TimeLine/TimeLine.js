@@ -46,8 +46,8 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      The purpose of this portfolio is to share my experience with Web Development with World.
-      established my development skills to the next level and build awesome apps.
+      The purpose of this portfolio is to share my experience of Web Development with World.
+      Established my development skills to the next level and build awesome apps.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
