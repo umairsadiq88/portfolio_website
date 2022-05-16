@@ -46,3 +46,14 @@ export const TimeLineData = [
   { year: 2022, text: 'Shared my portfolio with the world', },
   { year: 2022, text: 'Started my own platform', },
 ];
+
+
+export const certificate = [
+  {
+    title: 'PSEB',
+    description: "Registration with Pakistan Software Export Board",
+      image: '/images/PSEB.jpg',
+      tags: ['Freelancing'],
+    visit: 'https://pseb.org.pk/app/index.php',
+    id: 0,
+  },]
