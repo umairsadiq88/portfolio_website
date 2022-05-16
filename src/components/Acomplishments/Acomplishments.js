@@ -38,7 +38,6 @@ const Acomplishments = () => (
             {description}
           </CardInfo>
           <div>
-            <TitleContent>Stack</TitleContent>
              <TagList>
             {tags.map((tag, i) => {
               return <Tag key={i}>{tag}</Tag>;
