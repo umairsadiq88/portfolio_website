@@ -9,6 +9,15 @@ export const projects = [
     id: 0,
   },
   {
+    title: 'Collective For Social Science Research',
+    description: "our Developers Team IT-MAT-PAKISTAN develop Collective For Social Science Research",
+    image: '/images/4.jpg',
+    tags: ['Gatsby', 'MongoDB', 'NodeJs'],
+    source: 'https://researchcollective.gatsbyjs.io/',
+    visit: 'https://github.com/cssrgit/collective',
+    id: 3,
+  },
+  {
     title: 'E-Commerce',
     description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video.",
     image: '/images/2.png',
@@ -26,15 +35,7 @@ export const projects = [
     visit: 'https://github.com/umairsadiq88/redqueenproject',
     id: 2,
   },
-  {
-    title: 'Collective For Social Science Research',
-    description: "our Developers Team IT-MAT-PAKISTAN develop Collective For Social Science Research",
-    image: '/images/4.jpg',
-    tags: ['Gatsby', 'MongoDB', 'NodeJs'],
-    source: 'https://researchcollective.gatsbyjs.io/',
-    visit: 'https://github.com/cssrgit/collective',
-    id: 3,
-  },
+  
 ];
 
 export const TimeLineData = [
